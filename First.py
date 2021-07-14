@@ -1,3 +1,5 @@
+#board = [" "," "," "," "," "," "," "," "," "] #esse é o jeito ineficiente de montar um board com 9 espaços
+
 board = ["  " for i in range(9)] #esse é o jeito esperto # 2 espaços pra ficar mais bonito
 
 def print_board():
